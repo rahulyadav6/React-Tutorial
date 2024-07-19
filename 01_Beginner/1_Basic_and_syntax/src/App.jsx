@@ -1,10 +1,12 @@
-import './App.css' 
+import './App.css'
+import Title from './components/Title' 
 
 function App() {
 
   return (
     <>
-      Hello world!!
+    <Title></Title>
+     <p>Hello world!! </p>
     </>
   )
 }
