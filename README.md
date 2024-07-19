@@ -48,3 +48,23 @@ function App() {
 }
 
 ReactDOM.render(<App />, document.getElementById('root'));
+
+
+Setting Up Locally
+To set up this project on your local machine, follow these steps:
+
+1. Fork the Repository: Click the "Fork" button at the top right of this repository.
+2. Clone the Repository: Clone your forked repository to your local machine using:
+git clone https://github.com/your-username/react-tutorial.git
+
+3. cd react-tutorial
+4. npm install
+5. npm start
+
+Contributing
+Contributions are welcome! Feel free to submit issues or pull requests.
+
+Happy Coding!
+
+Feel free to customize the content according to your preferences and learning progress. This structure provides a clear and organized way to document your React learning journey and helps others set up the project locally.
+
