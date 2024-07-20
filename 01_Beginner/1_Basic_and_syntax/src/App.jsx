@@ -1,12 +1,11 @@
 import './App.css'
-import Title from './components/Title' 
+import ProductTab from './components/ProductTab'
 
 function App() {
 
   return (
     <>
-    <Title></Title>
-     <p>Hello world!! </p>
+      <ProductTab/>
     </>
   )
 }
