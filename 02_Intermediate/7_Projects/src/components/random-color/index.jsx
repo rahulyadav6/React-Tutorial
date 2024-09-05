@@ -22,7 +22,7 @@ export default function RandomColor() {
         const g = randoColorUtility(256);
         const b = randoColorUtility(256);
 
-        setColor(`rgb(${r}, ${g}, ${b})`); // Corrected string format
+        setColor(`rgb(${r}, ${g}, ${b})`);
     }
 
     useEffect(() => {
